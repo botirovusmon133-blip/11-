@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div{
+display: flex;
+justify-content: center;
+gap: 10px;
+
+
+}
+
+
+.f{
+    text-align: center;
+    background-color: yellow;
+    width: 400px;
+    height: 350px;
+}
+
+.q{
+    text-align: center;
+    background-color: yellow;
+    width: 400px;
+    height: 240px;
+    
+
+}
+
+.wq{
+    color: red;
+}
+
+.er{
+    color: blue;
+}
+.ty{
+    margin-top: 37px;
+}
+.i{
+      text-align: center;
+    background-color: yellow;
+    width: 400px;
+    height: 600px;
+}
+.sd{
+    margin-top: 50px;
+}
